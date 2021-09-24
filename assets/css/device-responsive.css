@@ -1,0 +1,9 @@
+
+@media (max-width: 575.98px) {
+    .text-center.title-text {
+        display: none;
+    }
+    .card-block.portofolio {
+        display: none;
+    }
+}
